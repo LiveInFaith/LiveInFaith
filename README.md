@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #  Hello, I'm Heinrich Rudman  👋
 
 ## 💻 About Me 
-I'm a Final-year Software Engineering student at Belgium Campus & focused on building reliable backends and algorithmic solutions. 
+Final-year Software Engineering student that is focused on building reliable backends and algorithmic solutions. 
 I enjoy designing robust APIs, digging into algorithms, and working with others to ship quality software.
 I'm a problem solver at heart and enjoy turning hard problems into clean, scalable code. 
 
