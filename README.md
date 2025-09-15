@@ -42,6 +42,6 @@ I'm a problem solver at heart and enjoy turning hard problems into clean, scalab
 ---
 
 ## 📄 My Socials
-   **[View my CV](https://liveinfaith.github.io/CV/index.html)**
-   **[View my LinkedIN](https://www.linkedin.com/in/heinrich-rudman-6aa257233/)**
+   **[View my CV Website](https://liveinfaith.github.io/CV/index.html)** <br>
+   **[View my LinkedIn](https://www.linkedin.com/in/heinrich-rudman-6aa257233/)**
 
