@@ -25,7 +25,7 @@ I'm a problem solver at heart and enjoy turning hard problems into clean, scalab
 ---
 
 ## Skills
-- **Languages:**  C#, Java, JavaScript, SQL
+- **Languages:**  C#, Python, Java, JavaScript, SQL
 - **Backend:**  .NET, Node.js, JSP/Servlets
 - **Databases:**  PostgreSQL, MongoDB, MySQL
 - **Algorithms & OR:**  Linear/Integer Programming, Knapsack, Simplex, Branch & Bound, Cutting Plane
